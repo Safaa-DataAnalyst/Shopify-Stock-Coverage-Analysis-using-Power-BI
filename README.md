@@ -21,6 +21,11 @@ How to Use:
 
 Sample Visuals:
 
+| Visual | Description |
+|--------|-------------|
+| ![Overview](images/Shopify%20Overview.jpeg) | **Shopify Overview**: Highlights KPIs like revenue and order value |
+| ![Stock](images/Stock%20Summary.jpeg) | **Stock Summary**: Displays stock levels and alerts |
+| ![Supplier](images/Supplier_SKU_Insights.jpeg) | **Supplier & SKU Insights**: Tracks supplier performance and SKU trends |
 
 
 Tags: 
