@@ -21,12 +21,11 @@ How to Use:
 
 Sample Visuals:
 
-| Visual | Description |
-|--------|-------------|
-| ![Overview](images/Shopify%20Overview.jpeg) | **Shopify Overview**: Highlights KPIs like revenue and order value |
-| ![Stock](images/Stock%20Summary.jpeg) | **Stock Summary**: Displays stock levels and alerts |
-| ![Supplier](images/Supplier_SKU_Insights.jpeg) | **Supplier & SKU Insights**: Tracks supplier performance and SKU trends |
-
+|  Description | Image |
+|---------------|----------|
+| Shopify Overview | ![Shopify Overview](Shopify%20Overview.jpeg) |
+| Stock Summary | ![Stock Summary](Shopify%20Stock%20Summary.jpeg) |
+| Supplier & Stock Health | ![Supplier & Stock Health](Shopify%20Supplier%26%20Stock%20health.jpeg) |
 
 Tags: 
 `Power BI` `Shopify` `Inventory Analysis` `Data Visualization` `DAX`
